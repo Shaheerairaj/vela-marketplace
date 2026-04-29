@@ -1,0 +1,13 @@
+{
+  "name": "vela-marketplace",
+  "owner": {
+    "name": "Shaheer Airaj"
+  },
+  "plugins": [
+    {
+      "name": "vela-plugins",
+      "source": "./plugins/vela-plugins",
+      "description": "Grabs meeting transcripts from google drive and summarizes insights"
+    }
+  ]
+}
