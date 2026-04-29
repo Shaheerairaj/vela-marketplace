@@ -1,7 +1,7 @@
 {
-  "name": "vela-plugin",
+  "name": "vela-plugins",
   "description": "A plugin to make sense of meeting transcripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Shaheer Airaj"
   }
